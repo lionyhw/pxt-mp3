@@ -1,4 +1,4 @@
-//% weight=0 color=#000000 icon="\uf001" block="MP3"
+//% weight=0 color=#009900 icon="\uf001" block="MP3"
 namespace mp3player {
 
     serial.onDataReceived("E", () => {
